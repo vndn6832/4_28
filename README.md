@@ -1,5 +1,5 @@
-## https://yooriuniv.herokuapp.com/
-## 랜덤게임
+# 랜덤게임
+URL: https://yooriuniv.herokuapp.com/
 
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
